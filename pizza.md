@@ -1,8 +1,4 @@
----
-Title: Pizza
-Author: Felix
-Tags: cooking, Italy
----
+# Pizza
 ## Dough
 
 ## Topings
