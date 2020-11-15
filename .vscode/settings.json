@@ -16,5 +16,7 @@
     "**/node_modules": true
   },
   "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
-  "vscodeMarkdownNotes.slugifyMethod": "github-slugger"
+  "vscodeMarkdownNotes.slugifyMethod": "github-slugger",
+  "markdown-image.coding.path": "/images",
+  "markdown-image.base.fileNameFormat": "${mdname}-${timestramp}"
 }
