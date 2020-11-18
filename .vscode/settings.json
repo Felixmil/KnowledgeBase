@@ -37,12 +37,12 @@
         "textDecoration": "line-through"
       }
     ],
-      "(\\- ?\\[\\/\\].*)": [
-        {
-          "color": "#1d58ff",
-          "fontWeight": "bold"
-        }
-      ],
+    "(\\- ?\\[\\/\\].*)": [
+      {
+        "color": "#1d58ff",
+        "fontWeight": "bold"
+      }
+    ],
     "(\\- ?\\[\\>\\].*)": [
       {
         "color": "#ffa200",
@@ -61,9 +61,9 @@
         "fontWeight": "bold"
       },
       {
-      "color": "#8b8b8b",
-      "fontWeight": "bold",
-      "textDecoration": "line-through",
+        "color": "#8b8b8b",
+        "fontWeight": "bold",
+        "textDecoration": "line-through",
       }
     ],
     "(\\- ?\\[\\o\\].*)": [
@@ -71,5 +71,13 @@
         "color": "#faabf0",
         "fontWeight": "bold"
       }
+    ],
+    "#([a-zA-Z]*)": [
+      {  
+        "overviewRulerColor": "#8c8c8c",
+        "backgroundColor": "#8c8c8c",
+        "color": "#1f1f1f",
+        "fontWeight": "bold"   
+      }
     ]
-}
+  }
