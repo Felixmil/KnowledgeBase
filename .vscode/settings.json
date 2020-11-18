@@ -18,5 +18,58 @@
   "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
   "vscodeMarkdownNotes.slugifyMethod": "github-slugger",
   "markdown-image.coding.path": "/images",
-  "markdown-image.base.fileNameFormat": "${mdname}-${timestramp}"
+  "markdown-image.base.fileNameFormat": "${mdname}-${timestramp}",
+  "highlight.regexes": {
+    "(\\- ?\\[ ?\\].*)": [
+      {
+        "color": "#ff0f16",
+        "fontWeight": "bold"
+      }
+    ],
+    "(\\- ?\\[x\\] ?:? ?)(.*)": [
+      {
+        "color": "#6bf285",
+        "fontWeight": "bold",
+      },
+      {
+        "color": "#6bf285",
+        "fontWeight": "bold",
+        "textDecoration": "line-through"
+      }
+    ],
+      "(\\- ?\\[\\/\\].*)": [
+        {
+          "color": "#1d58ff",
+          "fontWeight": "bold"
+        }
+      ],
+    "(\\- ?\\[\\>\\].*)": [
+      {
+        "color": "#ffa200",
+        "fontWeight": "bold"
+      }
+    ],
+    "(\\- ?\\[\\<\\].*)": [
+      {
+        "color": "#3eb563",
+        "fontWeight": "bold"
+      }
+    ],
+    "(\\- ?\\[\\-\\] ?:? ?)(.*)": [
+      {
+        "color": "#8b8b8b",
+        "fontWeight": "bold"
+      },
+      {
+      "color": "#8b8b8b",
+      "fontWeight": "bold",
+      "textDecoration": "line-through",
+      }
+    ],
+    "(\\- ?\\[\\o\\].*)": [
+      {
+        "color": "#faabf0",
+        "fontWeight": "bold"
+      }
+    ]
 }
