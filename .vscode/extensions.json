@@ -24,6 +24,9 @@
     "philipbe.theme-gray-matter",
 
     // Copy paste (saving) image made easy
-    "hancel.markdown-image"
+    "hancel.markdown-image",
+
+    // highligh text
+    "fabiospampinato.vscode-highlight"
   ]
 }
