@@ -3,8 +3,8 @@
 This document intended to be organized as a Bullet Journal. More recent entry are on the top of the page.
 
 ## Journaling rules
-[[digital-bujo-keys]]
-[[digital-bujo-templates]]
+- [[digital-bujo-keys]]
+- [[digital-bujo-templates]]
 
 ## Entries
 
