@@ -2,7 +2,10 @@
 
 #crypto
 
-## Getting to Bitcoin Trading
+## Ressources
+- Eliott waves: https://elliottwave-forecast.com/elliott-wave-theory
+  
+## Plan for starting crypto trading
 I invested in It (small amount) in march 2020 when bitcoin price was low (covid19 crash). This was a successfull investment and will try to renew the experience with bigger investments.
 
 There are a lot of crypto currencies but I want to first invest € to buy Ƀ (bitcoins). Starting slow...
