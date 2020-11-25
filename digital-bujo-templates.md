@@ -40,3 +40,10 @@ Maybe these collections should be in separated files for easy future access and 
 - blablablablabla
 
 ```
+
+### Monthly Log
+
+Good montly sections:
+- Habbit tracker
+- Month's Goal
+- Month's important dates
