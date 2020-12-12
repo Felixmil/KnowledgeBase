@@ -4,8 +4,6 @@
 
 ![picture 1](images/levain-1607784350974.png)  
 
-A nice tool to plan starter making: http://www.breadscheduler.com/#/recipe/5e89e208aa3c8d002393a317
-
 ## Experiments
 
 ### Method 1: Bake Club Sourdough Starter
@@ -69,7 +67,7 @@ end
 
 
 
-#### First Try
+#### Try: 0
 
 ##### Day 0 / 2020-04-10 14H00
 
@@ -143,7 +141,18 @@ Next feeding
 
 
 
-### Method 2: Marmiton
+
+### Method 2: Bread Scheduler
+
+http://www.breadscheduler.com/#/recipe/5e89e208aa3c8d002393a317
+
+#### Try: 1
+
+#### Day 0 2020-12-12
+
+Mix 113 grams of T80 flour with 113 grams of water in a glass jar (empty and without lid: 252g)
+
+### Method 3: Marmiton
 
 Source: https://www.marmiton.org/cuisine-fait-maison/faire-du-levain-s3010544.html
 
