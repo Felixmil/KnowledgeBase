@@ -61,10 +61,16 @@ La recette 1 semble donner un pain d'epice plus gonflé et moelleux. On part là
 - > 1 à 2 cuillère à café de mélange pain d'epice
   
   Le mélange que nous avons contient de l'anis en trop grande proportion. En général ce type de mélange contient: cannelle, noix de muscade, gingembre, clou de girofle, anis, cardamome. Nous allons utiliser le mélange suivant:
-    - 1/2 canelle
-    - 1/8 cardadome,
-    - 1/8 gingembre
-    - 1/4 mélange pain d'epice
+    - 1 teaspoon (tsp) canelle
+    - 1/4 tsp cardadome,
+    - 1/4 tsp gingembre
+    - 1/4 tsp mélange pain d'epice
+    
+    --> total de 1,75  teaspoon
+
+- farine 160g T45 +15 g de farine de seigle pour un coté plus rustique
+- 20g de cassonade + 10 g de rapadura
+- 90 g miel toute fleures + 70 g miel de sapin
 
 
 
