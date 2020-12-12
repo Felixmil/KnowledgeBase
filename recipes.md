@@ -4,7 +4,7 @@
 - [[cookies]]
 - [[dorayaki]]
 - [[crepes]]
-- [[pain d'epices]]
+- [[pain-depices]]
 
 ## Meals
 - [[pizza]]
