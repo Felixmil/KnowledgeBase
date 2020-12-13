@@ -8,6 +8,12 @@ This document intended to be organized as a Bullet Journal. More recent entry ar
 
 ## Entries
 
+##### [[2020-12-13]]
+
+##### [[2020-12-12]]
+
+#### [[2020-12-month]]
+
 ##### [[2020-11-27]]
 
 ##### [[2020-11-25]]
