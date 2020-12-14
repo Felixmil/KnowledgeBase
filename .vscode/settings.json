@@ -19,6 +19,36 @@
   "vscodeMarkdownNotes.slugifyMethod": "github-slugger",
   "markdown-image.coding.path": "/images",
   "markdown-image.base.fileNameFormat": "${mdname}-${timestramp}",
+  "foam.openDailyNote.directory": "journal/",
+  "note-macros": {
+      "weeklyNote": [
+      {
+          "type": "note",
+          "directory": "journal",
+          "extension": ".md",
+          "name": "week",
+          "date": "yyyy-W"
+      }
+      ],
+      "monthlyNote": [
+      {
+          "type": "note",
+          "directory": "journal",
+          "extension": ".md",
+          "name": "month",
+          "date": "yyyy-mm"
+      }
+      ],
+      "yearlyNote": [
+          {
+              "type": "note",
+              "directory": "journal",
+              "extension": ".md",
+              "name": "year",
+              "date": "yyyy"
+          }
+          ],    
+  },
   "highlight.regexes": {
     "(\\- ?\\[ ?\\].*)": [
       {
