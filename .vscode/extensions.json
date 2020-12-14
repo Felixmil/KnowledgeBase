@@ -27,6 +27,9 @@
     "hancel.markdown-image",
 
     // highligh text
-    "fabiospampinato.vscode-highlight"
+    "fabiospampinato.vscode-highlight",
+
+    // macros to creates notes
+    "NeelyInnovations.note-macros"
   ]
 }
